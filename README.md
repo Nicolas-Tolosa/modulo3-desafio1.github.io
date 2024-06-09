@@ -13,5 +13,5 @@
 
 
 ## Capturas
-![Version Mobile](https://github.com/Nicolas-Tolosa/modulo3-desafio1/blob/main/screenshot1.jpeg)
-![Version Escritorio](https://github.com/Nicolas-Tolosa/modulo3-desafio1/blob/main/screenshot2.jpeg)
+![Sin productos añadidos](https://github.com/Nicolas-Tolosa/modulo3-desafio1.github.io/blob/main/screenshot1.jpg)
+![Con productos añadidos](https://github.com/Nicolas-Tolosa/modulo3-desafio1.github.io/blob/main/screenshot2.jpg)
