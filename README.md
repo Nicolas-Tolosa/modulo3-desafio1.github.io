@@ -1,7 +1,7 @@
 # Desafio 1 - Introducción a la programación con JavaScript
 
  ## Link de la pagina web
- Enlace a la GitHub Page: modulo3-desafio1.github.io
+ Enlace a la GitHub Page: https://modulo3-desafio1.github.io/index.html
 
  ## Requisitos del desafio
 
